@@ -18,10 +18,3 @@ This system is a multi-user instant messaging platform with the capability to pe
 
 7. **Server-Side News Broadcasting:** Implement server-side functionality to push news updates to clients.
 
-## Usage
-
-To get started, follow the steps below:
-
-```bash
-git clone https://github.com/your-repo-url.git
-cd your-project-directory
